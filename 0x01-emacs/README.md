@@ -1,1 +1,0 @@
-Emacs helps you be productive by providing an integrated environment for many different kinds of tasks
